@@ -21,7 +21,7 @@
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/twitter-clone.git
+git clone https://github.com/aryanjha256/chirp.git
 ```
 
 ### Install packages
