@@ -1,31 +1,22 @@
-# Build and Deploy: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel (2023)
+# This is a practice project made by me, where you can share your throughts and also commment, react or love others thoughts.
 
-![Fullstack Twitter Clone (2)](https://user-images.githubusercontent.com/23248726/224405420-03112a76-250a-4283-992c-60e235170678.png)
+**Tech Stacks**:
 
+**React** ▶ _FrontEnd Framework_
 
-This is a repository for a FullStack Twitter clone tutorial using React, NextJS, TailwindCSS & Prisma.
+**Nextjs** ▶ _Routing_
 
-[VIDEO TUTORIAL](https://www.youtube.com/watch?v=ytkG7RT6SvU)
+**MongoDB** ▶ _Database_
 
-[DOCKER VERSION by mandeepsingh10](https://github.com/mandeepsingh10/chwitter)
+**Prisma** ▶ _ORM_
 
-We are going to learn funcionalities such as:
+**NextAUTH** ▶ _Authentication_
 
-- Authentication system
-- Notification system
-- Image Upload using Base64 strings
-- Prisma ORM with MongoDB
-- Responsive Layout
-- 1 To Many Relations (User - Post)
-- Many To Many Relations (Post - Comment)
-- Following functionality
-- Comments / Replies
-- Likes functionality
-- Vercel Deployment
+**Vercel** ▶ _Deployment_
 
-### Prerequisites
+## Getting Started
 
-**Node version 14.x**
+**Node version 16.x**
 
 ### Cloning the repository
 
@@ -40,7 +31,6 @@ npm i
 ```
 
 ### Setup .env file
-
 
 ```js
 DATABASE_URL=
@@ -58,6 +48,6 @@ npm run dev
 
 Running commands with npm `npm run [command]`
 
-| command         | description                              |
-| :-------------- | :--------------------------------------- |
-| `dev`           | Starts a development instance of the app |
+| command | description                              |
+| :------ | :--------------------------------------- |
+| `dev`   | Starts a development instance of the app |
